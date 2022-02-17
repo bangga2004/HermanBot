@@ -1,7 +1,7 @@
 
 //────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Kt69lMVe90WLBkCFcoYIyA']
+global.linkGC = ['https://chat.whatsapp.com/FfVZFz5kb761pp4Um7vO2M']
 global.channelYT = ['https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'] 
 global.owner = ['6282230397507', '6282230397507', '6282230397507']// Put your number here
 global.mods = [ '6283146208804' ,  '62882008097970' ,  '6283146208804' ] // Want some help?
